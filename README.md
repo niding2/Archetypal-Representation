@@ -1,8 +1,7 @@
 # Archetypal-Representation
 Code sharing for our paper published in TGRS.
 This is the Matlab program of our paper 
-"Fast Classification of Hyperspectral Images Using Globally Regularized Archetypal Representation With Approximate Solution" 
-to be appeared in IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2017.
+"Fast Classification of Hyperspectral Images Using Globally Regularized Archetypal Representation With Approximate Solution"  to be appeared in IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2017.
 ----------------------------------------------------------------------------------------------------
 Copyright 2016
 Ding Ni 
@@ -12,7 +11,6 @@ Department of Electronic Engineering, Tsinghua University, Beijing, P. R. China
 Use:
 
 You can run the program directly by "main.m".
-
 For more details about the algorithm, please refer to our article.
 
 Citation:
